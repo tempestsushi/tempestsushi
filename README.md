@@ -17,10 +17,15 @@ Currently, my focus is on:
 ## Tech Stack
 
 **Languages:** Python, C++, TypeScript, JavaScript, SQL
+
 **Frontend:** React, Tailwind CSS, HTML5, CSS3
+
 **Backend:** Node.js, Express, MongoDB, MySQL, REST APIs, Supabase
-**Data Science:** Pandas, Scikit-learn, Matplotlib, NumPy, Seaborn, Beautiful Soup
+
+**Data Science:** Pandas, Scikit-learn, Matplotlib, NumPy, Seaborn
+
 **Testing / QA:** Postman, JIRA, Playwright
+
 **Other:** UI/UX, Prototyping, Technical Documentation, Public Speaking
 
 ## Education
